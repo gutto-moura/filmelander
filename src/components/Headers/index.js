@@ -4,7 +4,7 @@ import { HeaderContainer } from "./headerStyle";
 function Header(){
     return(
         <HeaderContainer>
-        <img src = {filmelander} alt = "Logomarca Filmelandia" />
+        <a href="/"><img src = {filmelander} alt = "Logomarca Filmelandia" /></a>
         </HeaderContainer>
     )
 }
