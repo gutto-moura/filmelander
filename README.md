@@ -1,6 +1,7 @@
 # Filmelander
 > Se você quer acompanhar os lançamentos do cinema, ver a sinopse e a media das notas dos filmes. Esse é o seu site. Os filmes são atualizados automaticamente. Então não se preocupe, sempre que sair um filme novo, é so entrar no site e conferir os sucessos. 
-![Imagem_site](c:/Users/GUTTO/OneDrive/%C3%81rea%20de%20Trabalho/tela_filmes.png)
+![tela_filmes](https://user-images.githubusercontent.com/86565123/185930946-bfe2f1a3-254e-469a-ac90-1248865d0826.png)
+
 
 ´´´
 ## Link do projeto
