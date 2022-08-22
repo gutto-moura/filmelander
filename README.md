@@ -3,10 +3,10 @@
 ![tela_filmes](https://user-images.githubusercontent.com/86565123/185930946-bfe2f1a3-254e-469a-ac90-1248865d0826.png)
 
 
-´´´
+```
 ## Link do projeto
 [filmelander](https://filmelander.netlify.app)
-´´´
+```
 ## ✔️ Técnicas e tecnologias utilizadas
 | BIBLIOTECA          |                          DESCRIÇÃO                           |
 | ------------------- | :----------------------------------------------------------: |
