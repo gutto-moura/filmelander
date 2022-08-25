@@ -18,3 +18,48 @@
 | @material core/icon |        Permite desenvolvedores usarem Material Design        |
 | React-Toastify      |   Biblioteca simples para criação de toasts customizados.    |
 | React Icons         |   Biblioteca para adicionar icones                           |
+
+<hr/>
+
+### Como utilizar
+
+**Clonando o repositório**
+
+```
+$ git clone https://github.com/gutto-moura/filmelander.git
+
+$ cd projeto-filmaria
+```
+
+**Instalando dependências**
+
+```
+$ yarn
+```
+
+*ou*
+
+```
+$ npm install
+```
+
+**Executando**
+
+```
+$ npm run start
+```
+
+
+
+## Autor
+
+---
+
+<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/86565123?v=4" width="100px;" alt=""/>
+
+<p>
+Feito por Augusto Moura!
+</p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Augusto-blue?style=flat-square&align=center&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augusto-moura-5072b5181/)](https://www.linkedin.com/in/augusto-moura-5072b5181/)
+
